@@ -1,0 +1,3 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+Personne		TAR	25	nouvelle taille enregistrement : 25
+Personne	IDPersonne	CNW	Entier sur 4 octets$Chaîne	la rubrique IDPersonne a pour nouveau type Entier sur 4 octets

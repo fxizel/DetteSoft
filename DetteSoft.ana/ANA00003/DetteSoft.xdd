@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ANALYSE GenNum="3" VersionStructure="2" RepertoireDefaut=""><CONNEXION Nom="ConnexionDetteSoft" Type="17"><SOURCE>DetteSoft.db</SOURCE><USER/><MDP/><DB>DetteSoft.db</DB><INFOS_ETENDUES>;Initial Catalog=DetteSoft.db</INFOS_ETENDUES></CONNEXION></ANALYSE>

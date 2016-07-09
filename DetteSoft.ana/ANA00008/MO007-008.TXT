@@ -1,0 +1,3 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+Personne		IDE-		fichier sans identifiant
+Personne	IDPersonne	CNW	Entier sur 4 octets$Identifiant automatique (4 octets)	la rubrique IDPersonne a pour nouveau type Entier sur 4 octets

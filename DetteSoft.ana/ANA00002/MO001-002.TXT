@@ -1,0 +1,13 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Personne		NFI		nouveau fichier
+ProjetPersonne		NFI		nouveau fichier
+Projet		TAR	90	nouvelle taille enregistrement : 90
+Projet		IDE-		fichier sans identifiant
+Projet	IDProjet	CNW	Entier sur 4 octets$Identifiant automatique (4 octets)	la rubrique IDProjet a pour nouveau type Entier sur 4 octets
+Projet	Nom	RUB+		Nom est une nouvelle rubrique
+Projet	Montant	RUB+		Montant est une nouvelle rubrique
+Projet	DateDebut	RUB+		DateDebut est une nouvelle rubrique
+Projet	Description	RUB+		Description est une nouvelle rubrique
+Projet	Etat	RUB+		Etat est une nouvelle rubrique
+ProjetPersonne		FRN		
+Personne		FRN		

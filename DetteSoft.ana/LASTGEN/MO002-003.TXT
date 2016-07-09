@@ -1,0 +1,4 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+		FIC-	Personne	Fichier supprimé Personne
+		FIC-	ProjetPersonne	Fichier supprimé ProjetPersonne
+		FIC-	Projet	Fichier supprimé Projet
